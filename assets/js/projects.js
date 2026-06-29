@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python', 'PyTorch'],
             description: "A project aimed at detecting credit card fraud using various anomaly detection",
-            categories: ['featured', 'ai']
+            categories: ['ai']
         },
         {
             image: 'assets/images/covid_vaccine_hospital.png',
