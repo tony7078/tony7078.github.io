@@ -11,6 +11,15 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
+            image: 'assets/images/bim_rendering.png',
+            link: 'https://github.com/tony7078',
+            title: 'High-speed Rendering of Large-scale BIM Data',
+            demo: false,
+            technologies: ['C++', 'CUDA', 'OptiX'],
+            description: "High-speed rendering of large-scale BIM data (Iaan Co., 2025.01.01 - 2025.12.31)",
+            categories: ['featured', 'research']
+        },
+        {
             image: 'assets/images/creature_in_the_room.png',
             link: 'https://github.com/Studio-NOS/cc-project',
             title: 'Creature in the Room',
