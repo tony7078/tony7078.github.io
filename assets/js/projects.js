@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/bim_rendering.png',
-            link: 'https://tony7078.github.io/BIM-Rendering/',
+            link: 'https://tony7078.github.io/Parameter-preserving-Real-time-BIM-Rendering-via-Direct-GPU-Ray-Tracing/',
             title: 'High-speed Rendering of Large-scale BIM Data',
             demo: false,
             technologies: ['C++', 'CUDA', 'OptiX'],
